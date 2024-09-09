@@ -1,0 +1,15 @@
+number,name,symbol,element_category,atomic_number,atomic_radius,electronegativity,ionization_energies
+1,Hydrogen,H,diatomic nonmetal,1,empirical: 53 pm,Pauling scale: 2.20,1st: 1312.0 kJ/mol
+2,Helium,He,noble gas,2,empirical: 31 pm,Pauling scale: no data,"1st: 2372.3 kJ/mol, 2nd: 5250.5 kJ/mol"
+3,Lithium,Li,alkali metal,3,empirical: 152 pm,Pauling scale: 0.98,"1st: 520.2 kJ/mol, 2nd: 7298.1 kJ/mol, 3rd: 11815.0 kJ/mol"
+4,Beryllium,Be,alkaline earth metal,4,empirical: 112 pm,Pauling scale: 1.57,"1st: 899.5 kJ/mol, 2nd: 1757.1 kJ/mol, 3rd: 14,848.7 kJ/mol, (more)"
+5,Boron,B,metalloid,5,empirical: 90 pm,Pauling scale: 2.04,"1st: 800.6 kJ/mol, 2nd: 2427.1 kJ/mol, 3rd: 3659.7 kJ/mol, (more)"
+6,Carbon,C,"polyatomic nonmetal, sometimes considered a metalloid",6,empirical: 70 pm,Pauling scale: 2.55,"1st: 1086.5 kJ/mol, 2nd: 2352.6 kJ/mol, 3rd: 4620.5 kJ/mol, (more)"
+7,Nitrogen,N,diatomic nonmetal,7,empirical: 65 pm,Pauling scale: 3.04,
+8,Oxygen,O,diatomic nonmetal,8,empirical: 60 pm,Pauling scale: 3.44,"1st: 1313.9 kJ/mol, 2nd: 3388.3 kJ/mol, 3rd: 5300.5 kJ/mol, (more)"
+9,Fluorine,F,diatomic nonmetal,9,empirical: 42 pm,Pauling scale: 3.98,"1st: 1681 kJ/mol, 2nd: 3374 kJ/mol, 3rd: 6147 kJ/mol, (more)"
+10,Neon,Ne,noble gas,10,empirical: 38 pm,,"1st: 2080.7 kJ/mol, 2nd: 3952.3 kJ/mol, 3rd: 6122 kJ/mol, (more)"
+11,Sodium,Na,alkali metal,11,empirical: 186 pm,Pauling scale: 0.93,"1st: 495.8 kJ/mol, 2nd: 4562 kJ/mol, 3rd: 6910.3 kJ/mol, (more)"
+12,Magnesium,Mg,alkaline earth metal,12,empirical: 160 pm,Pauling scale: 1.31,"1st: 737.7 kJ/mol, 2nd: 1450.7 kJ/mol, 3rd: 7732.7 kJ/mol, (more)"
+13,Aluminum,Al,"post-transition metal, sometimes considered a metalloid",13,empirical: 143 pm,Pauling scale: 1.61,"1st: 577.5 kJ/mol, 2nd: 1816.7 kJ/mol, 3rd: 2744.8 kJ/mol, (more)"
+14,Silicon,Si,metalloid,14,empirical: 111 pm,Pauling scale: 1.90,"1st: 786.5 kJ/mol, 2nd: 1577.1 kJ/mol, 3rd: 3231.6 kJ/mol, (more)"
